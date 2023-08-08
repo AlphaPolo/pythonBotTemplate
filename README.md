@@ -1,0 +1,2 @@
+# pythonBotTemplate
+pythonBot與lineBot串接的模板
